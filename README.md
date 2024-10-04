@@ -1,1 +1,3 @@
 # Batman-Returns-Social
+Overview- This project focuses on analyzing the social network of characters from the movie Batman Returns (1992) using NetworkX in Python. Each node represents a character, and edges represent interactions between characters. The analysis applies theoretical concepts of social network analysis (SNA) to explore various metrics such as degree centrality, closeness, betweenness, and clustering.
+Dataset - The network is based on character interactions from Batman Returns. A GEXF file of the network was used, where each node corresponds to a character, and each edge indicates two characters appearing in the same scene.
